@@ -1,0 +1,2 @@
+# IdoTimer
+一个requestAnimationFrame优先的定时器封装javascript库
