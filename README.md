@@ -1,5 +1,5 @@
 # IdoTimer
-一个requestAnimationFrame优先的定时器封装javascript库， 
+一个requestAnimationFrame优先的时间线javascript库， 
 
 settimeout任务被放入异步队列，只有当主线程任务执行完后才会执行队列中的任务，因此实际执行时间总是比设定时间要晚；2、settimeout的固定时间间隔不一定与屏幕刷新时间相同，会引起丢帧。
 
